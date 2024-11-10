@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.bread{
+    display: inline-block;
+    border: .5px solid rgb(139, 137, 137);
+    border-color: rgb(195, 192, 192);
+    border-radius: 3px;
+    width: 170px;
+    margin: 150px 30px 10px 30px ;
+    text-align: center;
+    
+}
+
+
+.bread img{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.bread h2{
+
+    margin: 10px 0px 10px 0px ;
+    font-size: 10px;
+}
+
+.bread p{
+    
+    font-size: 8px;
+    margin-bottom: 3px;
+    color: gray;
+    padding: 0px 20px 0px 20px;
+}
+
+
+.bread button{
+    padding: 3px 13px 3px 13px;
+    margin: 6px 0px 15px 0px;
+    color: white;
+    background-color: rgb(81, 81, 223);
+    border: none;
+    border-radius: 2px; 
+}

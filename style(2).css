@@ -1,0 +1,59 @@
+*{margin: 0px;
+ padding: 0px;
+}
+
+img{width:100%;}
+
+body{
+    background-image: url("img/mobile.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* .back{  margin-top: 150px;
+    margin-left: 70px; 
+    background-image: url(img/mobile.jpg);
+    background-size: cover;
+
+
+} */
+.content{
+    margin-top: 150px;
+    margin-left: 70px;
+   
+}
+
+h2{
+    margin-top: 10px;
+}
+
+p{
+    display: inline-block;
+   padding: 20px 592px 30px 0px;
+}
+
+
+.contact{
+
+    padding: 5px 10px 5px 10px;
+    color: white;
+    margin-top:  10px; 
+    margin-right: 5px;
+    border-radius: 50px;
+    border-color:#ffffff;
+    background-color: rgba(206, 220, 220, 0);
+   
+}
+
+
+
+.start{
+
+    padding: 5px 10px 5px 10px;
+    color: white;
+    margin-top:  10px; 
+    border-radius: 3px;
+    
+    border-color: white;
+    background-color: rgb(91, 91, 246);
+}
